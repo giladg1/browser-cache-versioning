@@ -6,7 +6,7 @@
 
 2. for first time use, the name of the query value should be this name: app_version_1 
 
-3: query example: <script src="myFile.js?v=app_version_1"></script>
+3. query example: <script src="myFile.js?v=app_version_1"></script>
 
 4. each time you run: 'npm run app-version' from the command line, version number will be increment by 1
 
