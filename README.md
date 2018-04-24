@@ -1,7 +1,5 @@
 # version to avoid caching issue with the browser for multiple files with ease
 
-# written by Gilad Glasberg
-
 1. add a query param to each file you want to avoid browser caching when deploying new version to the server.
 
 2. for first time use, the name of the query value should be this name: app_version_1 
