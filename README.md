@@ -10,6 +10,6 @@
 
 5. to reset version to 1, run: 'npm run app-version-reset' from the command line.
 
-6. be the version.js app_version_{number} is the same as in the files you plane to increment the version 
+6. be sure the version.js app_version_{number} is the same as in the files you plane to increment by 1
 
 7. add more files to change versions in filesLocation array insdie app_version.js
