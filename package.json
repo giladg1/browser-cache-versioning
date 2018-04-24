@@ -1,0 +1,13 @@
+{
+  "name": "cache_versioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_version.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app-version": "node app_version.js",
+    "app-version-reset": "VER_RESET='true' node app_version.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
